@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nil Masó a recently graduated Physicist. I am currently studying a MSc on Biophysics and Complex Systems at Universitat de Barcelona
 - 👀 I’m interested in microfluidics and I'm captivated by the rheological properties of blood. Also interested in Lab-on-a-chip projects
-- 🌱 I’m currently learning Phyton and working on a code to compute the viscosity of Newtonian and non-Newtonian fluids using a microfluidic device
+- 🌱 I’m currently working with Phyton and creating a code to compute the viscosity of Newtonian and non-Newtonian fluids using a microfluidic device
 - 📫 You can reach me by email at nmaso14@gmail.com or by Linkedin messages at www.linkedin.com/in/nil-maso-castro
 
 
